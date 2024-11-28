@@ -126,4 +126,8 @@ body {
 }
 
 
-
+.formulario{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
