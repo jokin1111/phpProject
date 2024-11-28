@@ -1,0 +1,7 @@
+phpmailer/DSNConfigurator.php
+phpmailer/Exception.php
+phpmailer/OAuth.php
+phpmailer/OAuthTokenProvider.php
+phpmailer/PHPMailer.php
+phpmailer/POP3.php
+phpmailer/SMTP.php
